@@ -3,7 +3,7 @@ Blogger-Diaries Whether sharing your expertise, breaking news, or whatever’s o
 
 
 
-Languages used:HTML,CSS,Javascript,PHP.    
+Languages used:HTML,CSS,JavaScript,PHP.    
 
 Database:MySQL.
 
